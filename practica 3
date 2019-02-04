@@ -1,0 +1,13 @@
+// Daniel Armando Rdz Gza 1682138
+// Percepcion N5
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(250);
+	stroke(255,0,0)
+	ellipse(200, 200, 200, 200);
+	strokeWeight(20);
+	line(125, 150, 270, 250);
+}
